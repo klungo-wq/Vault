@@ -1,4 +1,4 @@
->For each one will carry his own load*
+>"For each one will carry his own load*"
 
 (Footnote says * Or load of responsibility)
 
