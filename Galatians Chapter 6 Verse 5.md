@@ -1,5 +1,6 @@
 >For each one will carry his own load*
->Footnote says * Or load of responsibility
+
+(Footnote says * Or load of responsibility)
 
 What things include our load?
 
