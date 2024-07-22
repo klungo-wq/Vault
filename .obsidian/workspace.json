@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "0d81a28c49748b78",
+    "type": "split",
+    "children": [
+      {
+        "id": "e89795cdd08dfc2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82984827794eb81c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Galatians 6;5.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c986dff3df96d2f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "eb8b3753b7346e13",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a394a299f08601b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1ccc7c373317d73b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8ed922d54383d15a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "df566993f5aeb2f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "30c081a780f3585f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2683513f92849760",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Galatians 6;5.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9a0301f2c6835fdf",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Galatians 6;5.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00bf9c33dc5ce1fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "01c99fec8c66d394",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Galatians 6;5.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "82984827794eb81c",
+  "lastOpenFiles": [
+    "Galatians 6;5.md",
+    "Leap Years.md",
+    "health benefits of long walks.md",
+    "Rosenberg Self-Esteem Scale.md",
+    "Several Short Sentences - VERLYN KLINKENBORG.md",
+    "Revelation Summary.md",
+    "Lithuanian, Beginner's (Dambriūnas, Klimas & Schmalstieg).pdf",
+    "Lithuanian.md",
+    "Notes on Revelation.md",
+    "www.jw.org.md",
+    "Wotjek the bear.md",
+    "Stacked Tabs.md",
+    "Jehovah Is . . . the One Who Rescues Me.md",
+    "2024-02-29.md",
+    "conflict-files-obsidian-git.md",
+    "Several short sentences about writing - Verlyn Klinkenborg.md",
+    "sedJRfKjn",
+    "sedaIu0gh",
+    "sedUbeOJw",
+    "sedcTX7Ld",
+    "sedEEzyMw",
+    "sedrM3z5O",
+    "Several.md",
+    "sedqUMxTY",
+    "ˈvɔjtɛk.md",
+    "create a link.md",
+    "Welcome.md"
+  ]
+}
