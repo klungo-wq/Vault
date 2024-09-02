@@ -4,22 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "e89795cdd08dfc2f",
+        "id": "2e5c6eb7cb5d2c55",
         "type": "tabs",
         "children": [
           {
-            "id": "82984827794eb81c",
+            "id": "28a99321da856ced",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Galatians Chapter 6 Verse 5.md",
+                "file": "Jeremiah and Ebed-melech.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "303b7c67cae5bad6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The great flood.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c44ebfe55f4d1278",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Jesus Christ.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Galatians Chapter 6 Verse 5.md",
+                "file": "Jesus Christ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Galatians Chapter 6 Verse 5.md",
+                "file": "Jesus Christ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Galatians Chapter 6 Verse 5.md"
+                "file": "Jesus Christ.md"
               }
             }
           }
@@ -146,8 +171,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "82984827794eb81c",
+  "active": "c44ebfe55f4d1278",
   "lastOpenFiles": [
+    "The great flood.md",
+    "Jeremiah and Ebed-melech.md",
+    "Jesus Christ.md",
+    "Pasted image 20240902183403.png",
+    "Pasted image 20240902181743.png",
     "Galatians Chapter 6 Verse 5.md",
     "Leap Years.md",
     "health benefits of long walks.md",
