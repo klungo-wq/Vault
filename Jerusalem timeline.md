@@ -18,9 +18,9 @@ Tishri, 537 B.C.E - Israelite's arrive with Zerubbabel
 
 443 B.C.E - Rooting out of apostasy finishes. Record of Hebrew Scriptures closes
 
-332 B.C.E - Alexander the great marches through Judah. City comes under greek control
+332 B.C.E - Alexander the great marches through Judah. City comes under Greek control
 
-Well Indeed I find it to be true
+198 B.C.E - Antiochus the Great captures Jerusalem, ending the control of the Ptolemies.
 
 
 70 C.E Destruction of Jerusalem

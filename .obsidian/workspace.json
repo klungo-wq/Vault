@@ -13,13 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Jerusalem timeline.md",
+                "file": "The Great Flood.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Jerusalem timeline.md",
+                "file": "The Great Flood.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Jerusalem timeline.md",
+                "file": "The Great Flood.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Jerusalem timeline.md"
+                "file": "The Great Flood.md"
               }
             }
           }
@@ -149,13 +150,13 @@
   },
   "active": "5720e002789a07cd",
   "lastOpenFiles": [
-    "Jerusalem timeline.md",
+    "The Exodus.md",
     "Jeremiah and Ebed-melech.md",
+    "The Amarna Tablets.md",
+    "Jerusalem timeline.md",
     "Pasted image 20240902181743.png",
     "Jesus Christ.md",
-    "The great flood.md",
-    "The Amarna Tablets.md",
-    "The Exodus.md",
+    "The Great Flood.md",
     "Pasted image 20240902183403.png",
     "Galatians Chapter 6 Verse 5.md",
     "Leap Years.md",
