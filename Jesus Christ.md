@@ -1,10 +1,10 @@
 There is overwhelming evidence that Jesus was not a mythical figure and was indeed a human who walked this earth. 
 
-## Tacitus 
+## Tacitus
 
 Tacitus wrote that when a great fire devastated Rome in 64 C.E., Emperor Nero was considered responsible. But Tacitus wrote that Nero accused the Christians in order to “scotch the rumour.” Then Tacitus said: “Christus, the founder of the name Christian, had undergone the death penalty in the reign of Tiberius, by sentence of the procurator Pontius Pilatus.”​—Annals, XV, 44.
 
-## Suetonius 
+## Suetonius
 
 Suetonius wrote: “Since the Jews constantly made disturbances at the instigation of Chrestus (Christus), he (Claudius) expelled them from Rome.” (_The Deified Claudius,_ XXV, 4) Although wrongly accusing Jesus of creating disturbances, Suetonius did not doubt his existence.
 
@@ -12,7 +12,7 @@ Suetonius wrote: “Since the Jews constantly made disturbances at the instigati
 
 This Jewish priest and historian states that Annas, a Jewish high priest who continued to wield political influence, “convened the judges of the Sanhedrin (the Jewish high court) and brought before them a man named James, the brother of Jesus who was called the Christ.”​—_Jewish Antiquities,_ XX, 200.
 
-## The Talmud 
+## The Talmud
 
 This collection of Jewish rabbinic writings, dating from the third to the sixth centuries C.E., shows that even Jesus’ enemies affirmed his existence. One passage says that on “the Passover Yeshu (Jesus) the Nazarean was hanged,” which is historically correct. (Babylonian Talmud, Sanhedrin 43a, Munich Codex)
 
