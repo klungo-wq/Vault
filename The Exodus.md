@@ -6,4 +6,4 @@ Manetho was an Egyptian priest who learnt very good Greek and wrote the history 
 
 > They went away with their whole families and effects, not fewer in number than two hundred and forty thousand; and took their journey from Egypt, through the wilderness, for Syria. But that as they were in fear of the Assyrians, who had then the dominion over Asia, they built a city in that country which is now called _Judea_: and that large enough to contain this great number of men, and called it _Jerusalem_.”
 
-Manetho hated the Jews very much and his account is generally unhistorical its very significant is that he mentions the Jews being in Egypt and then going out.
+Manetho hated the Jews very much and his account is generally unhistorical its significant though that he mentions the Jews being in Egypt and then going out.
