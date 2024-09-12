@@ -8,15 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "5720e002789a07cd",
+            "id": "9c2083453147f14e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "The Exodus.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ],
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "The Exodus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "The Exodus.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "The Exodus.md"
+                "file": "Moses.md"
               }
             }
           }
@@ -148,15 +142,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5720e002789a07cd",
+  "active": "5a394a299f08601b",
   "lastOpenFiles": [
-    "The Great Flood.md",
-    "The Exodus.md",
-    "Jeremiah and Ebed-melech.md",
-    "The Amarna Tablets.md",
     "Jerusalem timeline.md",
-    "Pasted image 20240902181743.png",
     "Jesus Christ.md",
+    "Moses.md",
+    "The Amarna Tablets.md",
+    "The Exodus.md",
+    "The Great Flood.md",
+    "Jeremiah and Ebed-melech.md",
+    "Pasted image 20240902181743.png",
     "Pasted image 20240902183403.png",
     "Galatians Chapter 6 Verse 5.md",
     "Leap Years.md",
