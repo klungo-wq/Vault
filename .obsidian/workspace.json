@@ -11,8 +11,12 @@
             "id": "9c2083453147f14e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Pontius Pilate.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pontius Pilate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pontius Pilate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -120,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Moses.md"
+                "file": "Pontius Pilate.md"
               }
             }
           }
@@ -142,8 +148,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a394a299f08601b",
+  "active": "9c2083453147f14e",
   "lastOpenFiles": [
+    "Pasted image 20240916184400.png",
+    "Pontius Pilate.md",
     "Jerusalem timeline.md",
     "Jesus Christ.md",
     "Moses.md",
@@ -177,8 +185,6 @@
     "sedrM3z5O",
     "Several.md",
     "sedqUMxTY",
-    "ˈvɔjtɛk.md",
-    "create a link.md",
-    "Welcome.md"
+    "ˈvɔjtɛk.md"
   ]
 }
